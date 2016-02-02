@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers
+END
+LegacyEditorXML.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers/LegacyEditorXML.as
+END
+AvatarEditorXML.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers/AvatarEditorXML.as
+END
+HexCodeString.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers/HexCodeString.as
+END
+GenericData.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers/GenericData.as
+END
+ConsoleBinary.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/com/myavatareditor/data/parsers/ConsoleBinary.as
+END

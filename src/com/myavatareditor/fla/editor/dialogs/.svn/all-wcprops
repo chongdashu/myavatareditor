@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs
+END
+FileOptions.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs/FileOptions.as
+END
+OptionsXML.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs/OptionsXML.as
+END
+OptionsExportImage.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs/OptionsExportImage.as
+END
+OptionsMenu.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs/OptionsMenu.as
+END
+AbstractOptionsGUI.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/fla/editor/dialogs/AbstractOptionsGUI.as
+END

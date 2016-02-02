@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/data
+END
+AvatarData.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/data/AvatarData.as
+END
+Range.as
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/data/Range.as
+END
+AvatarUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/data/AvatarUtils.as
+END
+IHasAvatar.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/com/myavatareditor/data/IHasAvatar.as
+END
